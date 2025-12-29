@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on strengthening core computer science and development skills<br>🌱 Learning modern web technologies and software engineering concepts<br>👯 Open to collaborating on student-level projects<br>💬 Ask me about programming basics and frontend development<br>⚡ Fun fact: I learn best by building and experimenting
+🔭 Working on strengthening core computer science and development skills<br>🌱 Learning modern web technologies and software engineering concepts<br>💬 Ask me about programming basics and frontend development<br>⚡ Fun fact: I learn best by building and experimenting
 
 
 # 💻 Tech Stack:
